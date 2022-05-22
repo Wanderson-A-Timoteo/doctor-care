@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="DoctorCare" src=".github/logo-doctor-care.png" width="100%">
+  <img alt="DoctorCare" src=".github/logo-doctor-care.png" width="50%">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -29,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e ferramentas:
 - [Google Fonts](https://fonts.google.com/)
 - [ScrollReveal](https://scrollrevealjs.org)
 
----
 <br>
 
 ## 💻 Projeto
@@ -50,40 +49,35 @@ DoctorCare é uma página institucional no formato One Page, responsiva, para us
   <img alt="DoctorCare" src=".github/doctor-care.gif" width="100%">
 </p>
 
----
 <br>
 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1102912263666619803). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
----
 <br>
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
 Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/doctor-care/issues)**. Assim que possível, responderei todas as dúvidas!
 
----
 <br>
 
 ## 💡 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
----
 <br>
 
-## 🎆 Autor:
+## 🎆 Autor
 
 Feito com ♥ by
 
 -  [**Wanderson A. Timóteo**](https://wanderson.tk)
 
----
 <br>
 
-## 🤝 Agradecimentos:
+## 🤝 Agradecimentos
 
 
 <p align="center">
